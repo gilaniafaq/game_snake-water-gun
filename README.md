@@ -1,4 +1,4 @@
-# 🐍 Snake, Water & Gun Game
+# 🐍 Snake, 💧 Water & 🔫 Gun Game
 
 A simple Python command-line game based on the popular "Snake, Water, Gun" (an Indian twist on Rock, Paper, Scissors). Play against the computer and see who wins!
 
