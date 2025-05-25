@@ -1,5 +1,8 @@
 # 🐍 Snake, 💧 Water & 🔫 Gun Game
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+
 A simple Python command-line game based on the popular "Snake, Water, Gun" (an Indian twist on Rock, Paper, Scissors). Play against the computer and see who wins!
 
 ## 🎮 How to Play
